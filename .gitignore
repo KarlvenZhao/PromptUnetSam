@@ -1,0 +1,23 @@
+# Large datasets to ignore
+ISLES-2022/
+sam_mri/
+sam_mri_processed_relaxed/
+
+# Common Python ignores
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project specific
+*.DS_Store
+*.pth
+*.nii.gz
+*.nii
+*.npy
+*.npz
+*.csv
+*.log
+*.png
+data/
+work_dir/
