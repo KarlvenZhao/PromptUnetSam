@@ -21,3 +21,4 @@ __pycache__/
 *.png
 data/
 work_dir/
+./MedSAM/work_dir/MedSAM
