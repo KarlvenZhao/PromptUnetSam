@@ -20,9 +20,9 @@ __pycache__/
 *.log
 *.png
 data/
-!nnUNet/
 work_dir/
 ./MedSAM/work_dir/MedSAM
 ./MedSAM/tutorial_quickstart.ipynb
 MedSAM\tutorial_quickstart.ipynb
 /tmp
+/nnUNet
